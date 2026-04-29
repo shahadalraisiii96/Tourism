@@ -1,0 +1,8 @@
+for i=1 till 100
+read spot 
+read location 
+end for 
+for i =1 till 100
+print spot 
+print loaction 
+end for
