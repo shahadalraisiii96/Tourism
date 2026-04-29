@@ -10,3 +10,5 @@ for i=1 to 100
 read spot 
 read fee
 end for
+print map
+read safty rules 
